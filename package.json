@@ -1,0 +1,7 @@
+{
+  "name": "sales-expert-ai",
+  "version": "0.0.1",
+  "dependencies": {
+    "openai": "4.19.0"
+  }
+}
